@@ -69,3 +69,7 @@ local.properties
  
 # PDT-specific
 .buildpath
+bin
+.metadata
+.DS_Store
+._*
